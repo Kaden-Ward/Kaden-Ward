@@ -1,5 +1,4 @@
-I'm Kaden Ward, a software developer and hobby game designer.
-Currently open for freelance and contract work.
+I'm Kaden Ward, a software developer and game designer.
 
 <!---
 Kaden-Ward/Kaden-Ward is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
